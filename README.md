@@ -16,7 +16,6 @@ This project is built using the following technologies:
 
 - **Laravel Framework** (PHP): The backend framework for API development.
 - **MySQL**: Used to store application data.
-- **Redis**: For caching to enhance performance.
 - **Mailtrap**: To handle email sending in development.
 
 ## Features
